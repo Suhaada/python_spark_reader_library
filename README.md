@@ -6,12 +6,12 @@ Library enables data validation on top of standard Spark methods
   - 2.) Allows to read any data from csv or json file
   - 3.) Allows to specify for each column type. Type must be validated during read
   - 4.) Allows to specify conditions which must be met by field
-   4.1) Field is not null
-   4.2) Field value meets defined regural expression 
-   4.3) Field value is unique
-   5.) In case when validation fails exception is thrown
-   6.) If validation is succesfull then it is possible to read data using DataFrame methods
-   7.) Code should be documented and tested using pytest
+  - 4.1) Field is not null
+  - 4.2) Field value meets defined regural expression 
+  - 4.3) Field value is unique
+  - 5.) In case when validation fails exception is thrown
+  - 6.) If validation is succesfull then it is possible to read data using DataFrame methods
+  - 7.) Code should be documented and tested using pytest
 
 
 
