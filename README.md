@@ -2,10 +2,10 @@
 Library enables data validation on top of standard Spark methods
 
 
-   1.) Can be deployed on spark cluster and resued by other programs, notebooks
-   2.) Allows to read any data from csv or json file
-   3.) Allows to specify for each column type. Type must be validated during read
-   4.) Allows to specify conditions which must be met by field
+  - 1.) Can be deployed on spark cluster and resued by other programs, notebooks
+  - 2.) Allows to read any data from csv or json file
+  - 3.) Allows to specify for each column type. Type must be validated during read
+  - 4.) Allows to specify conditions which must be met by field
    4.1) Field is not null
    4.2) Field value meets defined regural expression 
    4.3) Field value is unique
