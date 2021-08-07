@@ -7,7 +7,7 @@ setup(
   description = 'reads json and csv files, performs data quality checks',   # Give a short description about your library
   author = 'Adam Suhajda',                   # Type in your name
   author_email = 'adamsuhajdafx@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/Suhaada/sparkreader_lib',   # Provide either the link to your github or to your website
+  url = 'https://github.com/Suhaada/python_spark_reader_library',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/Suhaada/sparkreader_lib/archive/refs/tags/v_01.tar.gz',    # I explain this later on
   keywords = ['SPARK', 'DATA QUALITY', 'READ DATA'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
